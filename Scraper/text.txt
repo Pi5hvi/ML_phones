@@ -1,0 +1,7 @@
+<style type="text/css">
+    .review-header::after {
+	background-image:url( https://fdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg );
+	background-size: 673%;
+	background-position: -1165px -4565px;
+    }
+</style>
